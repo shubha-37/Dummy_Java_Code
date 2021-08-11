@@ -3,6 +3,8 @@ public class mathematicalOperations {
 
 	public static void main(String[] args) {
 		addFunction();
+		subtractFunction();
+		multiplyFunction();
 	}
 		
 		public static void addFunction() {
@@ -17,6 +19,14 @@ public class mathematicalOperations {
 			int b = 3;
 			int result = a-b;
 			System.out.println("Result is : " + result);
+		}
+		
+		public static void multiplyFunction() {
+			int a = 4;
+			int b = 2;
+			int product = a*b;
+			System.out.println("Product is : " + product);
+			
 		}
 
 	}
