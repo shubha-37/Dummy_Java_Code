@@ -1,4 +1,10 @@
 This is for Git demo purpose
+
+
+Following classes are a part of this project:
+1. Mathematical Operations
+2. String Reverse
+3. Array
 .
 .
 .
