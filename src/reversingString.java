@@ -11,7 +11,12 @@ public class reversingString {
 			rev = rev + c;
 		}
 		System.out.println("Reverse string is : "+ rev);
-		
+		if(act.equalsIgnoreCase(rev)) {
+			System.out.println("strings are pallindrome");
+		}
+		else {
+			System.out.println("strings are not pallindrome");
+		}
 	}
 
 }
