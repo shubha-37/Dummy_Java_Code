@@ -1,0 +1,13 @@
+This is for Git demo purpose
+.
+.
+.
+Good luck!!!
+
+
+if(act.equalsIgnoreCase(rev)) {
+			System.out.println("strings are pallindrome");
+		}
+		else {
+			System.out.println("strings are not pallindrome");
+		}
