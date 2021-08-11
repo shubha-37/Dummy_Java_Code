@@ -12,6 +12,12 @@ public class mathematicalOperations {
 		System.out.println("Sum is : " + sum);
 		}
 		
+		public static void subtractFunction() {
+			int a = 7;
+			int b = 3;
+			int result = a-b;
+			System.out.println("Result is : " + result);
+		}
 
 	}
 
